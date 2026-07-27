@@ -60,6 +60,7 @@ A curated list of awesome things to elevate your design skills.
 | [Framerize](https://framerize.co/)                                                                        | Discover beautifully designed Framer components                                             |
 | [GreatFrontEnd](https://www.greatfrontend.com/projects)                                                   | A platform to build high quality project challenges with beautiful & modular designs        |
 | [Vercel Design](https://vercel.com/design)                                                                | Vercel Brand Features & Products                                                            |
+| [Product Onboarding](https://productonboarding.com)                                                       | A free, curated gallery of user onboarding examples from leading SaaS products, by pattern and by company |
 
 ## Design-Focused Twitter Accounts
 
@@ -104,12 +105,14 @@ A curated list of awesome things to elevate your design skills.
 | [Shots](https://shots.so/)                                                                             | Create Amazing Mockups                                                                                                        |
 | [CustomGradient](https://customgradient.com/)                                                          | A web app that let's you customize your background gradient                                                                   |
 | [Fffuel](https://www.fffuel.co/)                                                                       | A collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds                   |
+| [Tessera](https://tgajwani4-a11y.github.io/tessera-patterns-site/) | Seamless, tileable generative pattern packs (PNG, 3000x3000px) for packaging, fabric, and web backgrounds |
 | [Trending Color Palettes](https://coolors.co/palettes/trending)                                        | Crie a paleta perfeita ou inspire-se com milhares de belos esquemas de cores                                                  |
 | [Chinese Color Atlas](https://github.com/chroma-cathy/chinese-color-atlas)                             | Free Chinese traditional color tokens, CSS variables, Tailwind theme, Figma samples, and Procreate swatches                   |
 | [Lordicon](https://lordicon.com/)                                                                      | Lordicon is a growing library full of carefully crafted, high-quality static and animated icons you won’t find anywhere else. |
 | [Jitter](https://jitter.video) | A fast and simple motion design tool on the web |
 | [TinyTools](https://tinytools-smoky.vercel.app/)                                                       | Free browser-based design utilities — color palette, favicon, OG image generator, AI background remover (runs locally). No signup, open source.                |
 | [Icons8](https://icons8.com/icons) | 1,500,000+ icons across 130+ visually consistent styles, available as SVG and PNG |
+| [ToolBox](https://www.toolbox-kit.com)                                                                 | Free browser-based design utilities: color picker & converter, gradient generator, image compressor, favicon & SVG tools. No signup; client-side.             |
 
 ## Design Podcasts
 
